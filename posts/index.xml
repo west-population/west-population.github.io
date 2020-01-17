@@ -14,8 +14,9 @@
             <pubDate>Fri, 17 Jan 2020 16:46:13 +0900</pubDate>
             
             <guid>https://west-population.github.io/posts/welcome/</guid>
-            <description>Blog 시작  Hugo Github Pages 댓글 기능  </description>
+            <description>Blog 시작   Hugo Github Pages 댓글 기능  </description>
             <content type="html"><![CDATA[<h2 id="blog-시작">Blog 시작</h2>
+<hr>
 <ul>
 <li><input checked="" disabled="" type="checkbox">Hugo</li>
 <li><input checked="" disabled="" type="checkbox">Github Pages</li>
