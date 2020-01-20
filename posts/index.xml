@@ -5,8 +5,27 @@
         <description>Recent content in Posts on Hello West Population</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 17 Jan 2020 16:46:13 +0900</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2020 10:55:50 +0900</lastBuildDate>
         <atom:link href="https://west-population.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Chartsheet</title>
+            <link>https://west-population.github.io/posts/chartsheet/</link>
+            <pubDate>Mon, 20 Jan 2020 10:55:50 +0900</pubDate>
+            
+            <guid>https://west-population.github.io/posts/chartsheet/</guid>
+            <description>Formatting ::Name	Description	PG	QH:: Headings	Renders a line as a heading.	- [x] - [x] Horizontal Rules	Adds a horizontal rule.	- [x] - [x] Bulleted Lists	Adds a bulleted list.	- [x] - [x] Numbered Lists	Adds a numbered list.	- [x] - [x] Code Voice	Renders line of code.	- [x] - [x] Code Block	Renders block of code.	- [x] - [x] Escapes	Disables character behaviors.	- [x] - [x]</description>
+            <content type="html"><![CDATA[<h2 id="formatting">Formatting</h2>
+<p>::Name				Description					PG		QH::
+<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/Headings.html#//apple_ref/doc/uid/TP40016497-CH8-SW1">Headings</a>		Renders a line as a heading.	- [x] 		- [x]
+<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/HorizontalRules.html#//apple_ref/doc/uid/TP40016497-CH13-SW1">Horizontal Rules</a>	Adds a horizontal rule.		- [x] 		- [x]
+<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/BulletedLists.html#//apple_ref/doc/uid/TP40016497-CH9-SW1">Bulleted Lists</a>	Adds a bulleted list.			- [x] 		- [x]
+<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/NumberedLists.html#//apple_ref/doc/uid/TP40016497-CH10-SW1">Numbered Lists</a>	Adds a numbered list.		- [x] 		- [x]
+<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/Code.html#//apple_ref/doc/uid/TP40016497-CH16-SW1">Code Voice</a>		Renders line of code.			- [x] 		- [x]
+<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/CodeBlocks.html#//apple_ref/doc/uid/TP40016497-CH12-SW1">Code Block</a>		Renders block of code.		- [x] 		- [x]
+<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/SpecialCharacter.html#//apple_ref/doc/uid/TP40016497-CH19-SW1">Escapes</a>		Disables character behaviors.	- [x] 		- [x]</p>
+]]></content>
+        </item>
         
         <item>
             <title>Welcome!</title>
