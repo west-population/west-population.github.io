@@ -17,7 +17,7 @@
       <pubDate>Mon, 20 Jan 2020 10:55:50 +0900</pubDate>
       
       <guid>https://west-population.github.io/posts/chartsheet/</guid>
-      <description>Formatting Name	Description	PG	QH Headings	Renders a line as a heading.	- [x] - [x] Horizontal Rules	Adds a horizontal rule.	- [x] - [x] Bulleted Lists	Adds a bulleted list.	- [x] - [x] Numbered Lists	Adds a numbered list.	- [x] - [x] Code Voice	Renders line of code.	- [x] - [x] Code Block	Renders block of code.	- [x] - [x] Escapes	Disables character behaviors.	- [x] - [x] </description>
+      <description>Formatting Name|Description|PG|QH Headings|Renders a line as a heading.|- [x]|- [x] Horizontal Rules|Adds a horizontal rule.|- [x]|- [x] Bulleted Lists|Adds a bulleted list.|- [x]|- [x] Numbered Lists|Adds a numbered list.|- [x]|- [x] Code Voice|Renders line of code.|- [x]|- [x] Code Block|Renders block of code.|- [x]|- [x] Escapes|Disables character behaviors.|- [x]|- [x] </description>
     </item>
     
     <item>
