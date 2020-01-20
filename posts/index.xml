@@ -14,16 +14,62 @@
             <pubDate>Mon, 20 Jan 2020 10:55:50 +0900</pubDate>
             
             <guid>https://west-population.github.io/posts/chartsheet/</guid>
-            <description>Formatting Name|Description|PG|QH Headings|Renders a line as a heading.|- [x]|- [x] Horizontal Rules|Adds a horizontal rule.|- [x]|- [x] Bulleted Lists|Adds a bulleted list.|- [x]|- [x] Numbered Lists|Adds a numbered list.|- [x]|- [x] Code Voice|Renders line of code.|- [x]|- [x] Code Block|Renders block of code.|- [x]|- [x] Escapes|Disables character behaviors.|- [x]|- [x] </description>
+            <description>Formatting    **Name Description PG QH**     Headings Renders a line as a heading. - [x] - [x]    Horizontal Rules Adds a horizontal rule. - [x] - [x]    Bulleted Lists Adds a bulleted list. - [x] - [x]    Numbered Lists Adds a numbered list. - [x] - [x]    Code Voice Renders line of code.</description>
             <content type="html"><![CDATA[<h2 id="formatting">Formatting</h2>
-<h2 id="namedescriptionpgqh"><strong>Name|Description|PG|QH</strong></h2>
-<p><a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/Headings.html#//apple_ref/doc/uid/TP40016497-CH8-SW1">Headings</a>|Renders a line as a heading.|- [x]|- [x] <!-- raw HTML omitted -->
-<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/HorizontalRules.html#//apple_ref/doc/uid/TP40016497-CH13-SW1">Horizontal Rules</a>|Adds a horizontal rule.|- [x]|- [x] <!-- raw HTML omitted -->
-<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/BulletedLists.html#//apple_ref/doc/uid/TP40016497-CH9-SW1">Bulleted Lists</a>|Adds a bulleted list.|- [x]|- [x] <!-- raw HTML omitted -->
-<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/NumberedLists.html#//apple_ref/doc/uid/TP40016497-CH10-SW1">Numbered Lists</a>|Adds a numbered list.|- [x]|- [x] <!-- raw HTML omitted -->
-<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/Code.html#//apple_ref/doc/uid/TP40016497-CH16-SW1">Code Voice</a>|Renders line of code.|- [x]|- [x] <!-- raw HTML omitted -->
-<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/CodeBlocks.html#//apple_ref/doc/uid/TP40016497-CH12-SW1">Code Block</a>|Renders block of code.|- [x]|- [x] <!-- raw HTML omitted -->
-<a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/SpecialCharacter.html#//apple_ref/doc/uid/TP40016497-CH19-SW1">Escapes</a>|Disables character behaviors.|- [x]|- [x] <!-- raw HTML omitted --></p>
+<table>
+<thead>
+<tr>
+<th>**Name</th>
+<th>Description</th>
+<th>PG</th>
+<th>QH**</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/Headings.html#//apple_ref/doc/uid/TP40016497-CH8-SW1">Headings</a></td>
+<td>Renders a line as a heading.</td>
+<td>- [x]</td>
+<td>- [x] <!-- raw HTML omitted --></td>
+</tr>
+<tr>
+<td><a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/HorizontalRules.html#//apple_ref/doc/uid/TP40016497-CH13-SW1">Horizontal Rules</a></td>
+<td>Adds a horizontal rule.</td>
+<td>- [x]</td>
+<td>- [x] <!-- raw HTML omitted --></td>
+</tr>
+<tr>
+<td><a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/BulletedLists.html#//apple_ref/doc/uid/TP40016497-CH9-SW1">Bulleted Lists</a></td>
+<td>Adds a bulleted list.</td>
+<td>- [x]</td>
+<td>- [x] <!-- raw HTML omitted --></td>
+</tr>
+<tr>
+<td><a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/NumberedLists.html#//apple_ref/doc/uid/TP40016497-CH10-SW1">Numbered Lists</a></td>
+<td>Adds a numbered list.</td>
+<td>- [x]</td>
+<td>- [x] <!-- raw HTML omitted --></td>
+</tr>
+<tr>
+<td><a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/Code.html#//apple_ref/doc/uid/TP40016497-CH16-SW1">Code Voice</a></td>
+<td>Renders line of code.</td>
+<td>- [x]</td>
+<td>- [x] <!-- raw HTML omitted --></td>
+</tr>
+<tr>
+<td><a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/CodeBlocks.html#//apple_ref/doc/uid/TP40016497-CH12-SW1">Code Block</a></td>
+<td>Renders block of code.</td>
+<td>- [x]</td>
+<td>- [x] <!-- raw HTML omitted --></td>
+</tr>
+<tr>
+<td><a href="https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/SpecialCharacter.html#//apple_ref/doc/uid/TP40016497-CH19-SW1">Escapes</a></td>
+<td>Disables character behaviors.</td>
+<td>- [x]</td>
+<td>- [x] <!-- raw HTML omitted --></td>
+</tr>
+</tbody>
+</table>
 ]]></content>
         </item>
         
