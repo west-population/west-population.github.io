@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://west-population.github.io/about/</loc>
-    <lastmod>2020-01-20T16:34:35+09:00</lastmod>
+    <loc>https://west-population.github.io/post/dev/test/</loc>
+    <lastmod>2020-01-21T16:10:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://west-population.github.io/post/</loc>
+    <lastmod>2020-01-21T16:10:40+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://west-population.github.io/</loc>
+    <lastmod>2020-01-21T16:10:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://west-population.github.io/about/</loc>
     <lastmod>2020-01-20T16:34:35+09:00</lastmod>
   </url>
   
