@@ -49,5 +49,14 @@ Hugo makes use of a variety of open source projects including:
       <description>Blog 시작    Hugo Github Pages 댓글 기능  </description>
     </item>
     
+    <item>
+      <title>Tag &amp; Code Block</title>
+      <link>https://west-population.github.io/posts/test1/</link>
+      <pubDate>Fri, 17 Jan 2020 16:44:20 +0900</pubDate>
+      
+      <guid>https://west-population.github.io/posts/test1/</guid>
+      <description>System.out.println(&amp;#34;welcome to west population blog&amp;#34;); </description>
+    </item>
+    
   </channel>
 </rss>
