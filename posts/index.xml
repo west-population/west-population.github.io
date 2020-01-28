@@ -14,8 +14,11 @@
             <pubDate>Tue, 28 Jan 2020 15:37:30 +0900</pubDate>
             
             <guid>https://west-population.github.io/posts/post005/</guid>
-            <description></description>
+            <description>애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다.
+이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다. 어떻게 AWS Resource들을 정리해 나가고 그 과정에서 어떤 삽질을 하는지 공유해 보겠다.</description>
             <content type="html"><![CDATA[<!-- raw HTML omitted -->
+<p>애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다.</p>
+<p>이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다. 어떻게 AWS Resource들을 정리해 나가고 그 과정에서 어떤 삽질을 하는지 공유해 보겠다.</p>
 ]]></content>
         </item>
         
