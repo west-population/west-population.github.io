@@ -104,10 +104,10 @@
         
         <item>
             <title>Tag &amp; Code Block</title>
-            <link>https://west-population.github.io/posts/test1/</link>
+            <link>https://west-population.github.io/posts/tag/</link>
             <pubDate>Fri, 17 Jan 2020 16:44:20 +0900</pubDate>
             
-            <guid>https://west-population.github.io/posts/test1/</guid>
+            <guid>https://west-population.github.io/posts/tag/</guid>
             <description>System.out.println(&amp;#34;welcome to west population blog&amp;#34;); </description>
             <content type="html"><![CDATA[<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java">System<span style="color:#f92672">.</span><span style="color:#a6e22e">out</span><span style="color:#f92672">.</span><span style="color:#a6e22e">println</span><span style="color:#f92672">(</span><span style="color:#e6db74">&#34;welcome to west population blog&#34;</span><span style="color:#f92672">)</span><span style="color:#f92672">;</span>
 </code></pre></div>]]></content>
