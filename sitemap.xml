@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://west-population.github.io/posts/new/hello/</loc>
-    <lastmod>2020-01-21T16:20:02+09:00</lastmod>
+    <loc>https://west-population.github.io/tags/aws/</loc>
+    <lastmod>2020-01-28T15:37:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://west-population.github.io/posts/post001/</loc>
+    <lastmod>2020-01-28T15:37:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://west-population.github.io/tags/multi-cloud-management/</loc>
+    <lastmod>2020-01-28T15:37:30+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://west-population.github.io/posts/</loc>
-    <lastmod>2020-01-21T16:20:02+09:00</lastmod>
+    <lastmod>2020-01-28T15:37:30+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://west-population.github.io/tags/</loc>
+    <lastmod>2020-01-28T15:37:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://west-population.github.io/</loc>
+    <lastmod>2020-01-28T15:37:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://west-population.github.io/posts/hello/</loc>
     <lastmod>2020-01-21T16:20:02+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://west-population.github.io/tags/untagged/</loc>
-    <lastmod>2020-01-21T16:20:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://west-population.github.io/</loc>
     <lastmod>2020-01-21T16:20:02+09:00</lastmod>
   </url>
   
