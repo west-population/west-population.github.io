@@ -5,7 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
-<meta name="description" content="한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다. 애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이, 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다. 이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다." />
+<meta name="description" content="한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고, 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다.
+애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다.
+이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다." />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -31,7 +33,9 @@
 
 
 <meta itemprop="name" content="사용하지 않는 AWS 자원 정리하기">
-<meta itemprop="description" content="한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다. 애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이, 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다. 이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다.">
+<meta itemprop="description" content="한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고, 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다.
+애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다.
+이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다.">
 <meta itemprop="datePublished" content="2020-01-28T15:37:30&#43;09:00" />
 <meta itemprop="dateModified" content="2020-01-28T15:37:30&#43;09:00" />
 <meta itemprop="wordCount" content="87">
@@ -43,7 +47,9 @@
 <meta name="twitter:image" content="https://west-population.github.io/"/>
 
 <meta name="twitter:title" content="사용하지 않는 AWS 자원 정리하기"/>
-<meta name="twitter:description" content="한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다. 애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이, 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다. 이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다."/>
+<meta name="twitter:description" content="한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고, 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다.
+애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다.
+이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다."/>
 
 
 
@@ -121,10 +127,12 @@
             
 
             <div class="post-content">
-                <p><img src="https://img.shields.io/badge/TAG-multi--cloud--management-red" alt="platform"> <img src="https://img.shields.io/badge/TAG-AWS-red" alt="platform"></p>
+                <p><img src="https://img.shields.io/badge/TAG-multi--cloud--management-red" alt="TAG"> <img src="https://img.shields.io/badge/TAG-AWS-red" alt="TAG"></p>
 <hr>
-<p> 
-한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다. 애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이, 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다. 이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다. 어떻게 AWS Resource들을 정리해 나가고 그 과정에서 어떤 삽질을 하는지 공유해 보겠다.</p>
+<h1 id="heading"></h1>
+<p>한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고, 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다.<br>
+애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다.<br>
+이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다. 어떻게 AWS Resource들을 정리해 나가고 그 과정에서 어떤 삽질을 하는지 공유해 보겠다.</p>
 
             </div>
         </article>
