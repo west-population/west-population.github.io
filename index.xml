@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>AWS 자원 정리하기</title>
-      <link>https://west-population.github.io/posts/post001/</link>
+      <title>사용하지 않는 AWS 자원 정리하기</title>
+      <link>https://west-population.github.io/posts/post005/</link>
       <pubDate>Tue, 28 Jan 2020 15:37:30 +0900</pubDate>
       
-      <guid>https://west-population.github.io/posts/post001/</guid>
-      <description>AWS 자원 정리하기   한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다. 애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이, 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다. 이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다.</description>
+      <guid>https://west-population.github.io/posts/post005/</guid>
+      <description>한 조직에서 Cloud 환경 내에서의 개발과 테스트를 반복하다보면, Billing Account 관리자 입장에서 어떤 Resource가 사용 중이고 어떤 Resource가 낭비되고 있는지 파악하는 것이 어려워진다. 애초에 CSP Account를 더 세세한 조직 단위로 구성하여 Resource를 생성한 사람들이 직접 본인의 Resource를 관리한다면 해결될 문제이지만, 나는 이미 수 십명이, 하루에도 수 십, 수 백번 Cloud Resource를 생성하고 삭제하고 있는 Billing Account의 관리자가 되었다. 이번 기회에 현재 사용 중인 Billing Account를 정리하고, 더 세세한 조직 단위의 Billing Account를 구성해 관리하려고 한다.</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>https://west-population.github.io/posts/hello/</link>
+      <link>https://west-population.github.io/posts/post004/</link>
       <pubDate>Tue, 21 Jan 2020 16:20:02 +0900</pubDate>
       
-      <guid>https://west-population.github.io/posts/hello/</guid>
+      <guid>https://west-population.github.io/posts/post004/</guid>
       <description></description>
     </item>
     
@@ -42,28 +42,28 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title>Chartsheet</title>
-      <link>https://west-population.github.io/posts/chartsheet/</link>
+      <link>https://west-population.github.io/posts/post003/</link>
       <pubDate>Mon, 20 Jan 2020 10:55:50 +0900</pubDate>
       
-      <guid>https://west-population.github.io/posts/chartsheet/</guid>
+      <guid>https://west-population.github.io/posts/post003/</guid>
       <description>Formatting    Name Description PG QH     Headings Renders a line as a heading. - [x] - [x]    Horizontal Rules Adds a horizontal rule. - [x] - [x]    Bulleted Lists Adds a bulleted list. - [x] - [x]    Numbered Lists Adds a numbered list. - [x] - [x]    Code Voice Renders line of code.</description>
     </item>
     
     <item>
       <title>Welcome!</title>
-      <link>https://west-population.github.io/posts/welcome/</link>
+      <link>https://west-population.github.io/posts/post002/</link>
       <pubDate>Fri, 17 Jan 2020 16:46:13 +0900</pubDate>
       
-      <guid>https://west-population.github.io/posts/welcome/</guid>
+      <guid>https://west-population.github.io/posts/post002/</guid>
       <description>Blog 시작    Hugo Github Pages 댓글 기능  </description>
     </item>
     
     <item>
       <title>Tag &amp; Code Block</title>
-      <link>https://west-population.github.io/posts/tag/</link>
+      <link>https://west-population.github.io/posts/post001/</link>
       <pubDate>Fri, 17 Jan 2020 16:44:20 +0900</pubDate>
       
-      <guid>https://west-population.github.io/posts/tag/</guid>
+      <guid>https://west-population.github.io/posts/post001/</guid>
       <description>System.out.println(&amp;#34;welcome to west population blog&amp;#34;); </description>
     </item>
     
